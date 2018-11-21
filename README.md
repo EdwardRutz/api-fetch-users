@@ -16,7 +16,7 @@
 
 ## Notes
 
-### A Simple Fetch API Call
+### A Simple Fetch API Call Format
 ```js
 fetch(url) // Call the fetch function passing the url of the API as a parameter
 .then(function() {
